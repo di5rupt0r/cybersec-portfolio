@@ -2,14 +2,23 @@
 layout: default
 ---
 
-# 🛡️ Cybersecurity Portfolio
+# 👋 Olá, eu sou o Gabriel Benetti
 
-Bem-vindo ao meu portfólio. Abaixo você encontra meus principais projetos práticos, relatórios e ferramentas de cibersegurança.
+Este é meu espaço para compartilhar estudos práticos, desafios resolvidos, ferramentas e relatórios desenvolvidos ao longo da minha jornada em **cibersegurança**.
 
-👉 Acesse meu repositório no GitHub: [di5rupt0r/cybersec-portfolio](https://github.com/di5rupt0r/cybersec-portfolio)
+🚀 Explore os materiais abaixo para ver como aplico meus conhecimentos em segurança ofensiva, OSINT, análise forense, automação e defesa de sistemas.
 
-## 🔗 Seções
+👉 Repositório no GitHub: [di5rupt0r/cybersec-portfolio](https://github.com/di5rupt0r/cybersec-portfolio)
 
-- [Write-ups](../writeups/)
-- [Scripts](../scripts/)
-- [Relatórios](../reports/)
+---
+
+## 🧭 Acesse por categoria
+
+- [Write-ups](../writeups/) — Resoluções documentadas de CTFs, labs e exercícios técnicos
+- [Scripts](../scripts/) — Ferramentas e automações desenvolvidas para facilitar análises e testes
+- [Relatórios](../reports/) — Simulações de pentest, investigações forenses e estudos de caso
+
+---
+
+💡 **Este site foi construído com GitHub Pages + Jekyll e será atualizado continuamente.**  
+Fique à vontade para explorar ou deixar sugestões no repositório!
